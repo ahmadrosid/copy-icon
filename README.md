@@ -15,8 +15,16 @@ A lightweight, customizable copy-to-clipboard icon button implemented as a Web C
 
 ## Installation
 
+Import via CDN.
+
 ```html
-<script src="copy-icon.js"></script>
+<script src="https://unpkg.com/copy-icon@1.0.0/index.js"></script>
+```
+
+Or using NPM
+
+```bash
+npm install copy-icon
 ```
 
 ## Usage
