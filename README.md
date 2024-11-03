@@ -24,13 +24,17 @@ A lightweight, customizable copy-to-clipboard icon button implemented as a Web C
 ### Basic Usage
 
 ```html
-<copy-icon onclick="navigator.clipboard.writeText('some text')" class="size-4 absolute top-2 right-2"></copy-icon>
+<copy-icon 
+    onclick="navigator.clipboard.writeText('some text')"
+    class="size-4 absolute top-2 right-2"></copy-icon>
 ```
 
 ### Dynamic Content
 
 ```html
-<copy-icon onclick="navigator.clipboard.writeText(document.querySelector('target').innerText)" class="size-4 absolute top-2 right-2"></copy-icon>
+<copy-icon 
+    onclick="navigator.clipboard.writeText(document.querySelector('target').innerText)" 
+    class="size-4 absolute top-2 right-2"></copy-icon>
 ```
 
 ### Styling
