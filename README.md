@@ -18,7 +18,7 @@ A lightweight, customizable copy-to-clipboard icon button implemented as a Web C
 Import via CDN.
 
 ```html
-<script src="https://unpkg.com/copy-icon@1.0.0/index.js"></script>
+<script src="https://unpkg.com/copy-icon@1.0.2/index.js"></script>
 ```
 
 Or using NPM
