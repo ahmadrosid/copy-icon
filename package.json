@@ -1,0 +1,23 @@
+{
+  "name": "@ahmadrosid/copy-icon",
+  "version": "1.0.0",
+  "description": "A lightweight, customizable copy-to-clipboard icon button implemented as a Web Component. Perfect for adding copy functionality to your web applications with minimal setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadrosid/copy-icon.git"
+  },
+  "keywords": [
+    "web",
+    "component"
+  ],
+  "author": "Ahmad Rosid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmadrosid/copy-icon/issues"
+  },
+  "homepage": "https://github.com/ahmadrosid/copy-icon#readme"
+}
