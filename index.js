@@ -50,7 +50,7 @@ class CopyIcon extends HTMLElement {
           }
         </style>
   
-        <div class="icon-container">
+        <div class="copy-icon-container">
           <svg class="copy-icon"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
