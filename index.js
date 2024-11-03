@@ -22,7 +22,6 @@ class CopyIcon extends HTMLElement {
           .icon-container {
             cursor: pointer;
             user-select: none;
-            padding: 0.5rem;
             display: flex;
             align-items: center;
             justify-content: center;
