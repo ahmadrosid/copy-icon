@@ -1,6 +1,6 @@
 {
   "name": "copy-icon",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight, customizable copy-to-clipboard icon button implemented as a Web Component. Perfect for adding copy functionality to your web applications with minimal setup.",
   "main": "index.js",
   "scripts": {
