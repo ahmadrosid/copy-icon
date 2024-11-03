@@ -19,7 +19,7 @@ class CopyIcon extends HTMLElement {
             height: var(--size, 100%);
           }
           
-          .icon-container {
+          .copy-icon-container {
             cursor: pointer;
             user-select: none;
             display: flex;
@@ -31,7 +31,7 @@ class CopyIcon extends HTMLElement {
             height: 100%;
           }
   
-          .icon-container:hover {
+          .copy-icon-container:hover {
             background-color: var(--accent-color, #f3f4f6);
           }
   
@@ -91,7 +91,7 @@ class CopyIcon extends HTMLElement {
   }
 
   setupEventListeners() {
-    const container = this.shadowRoot.querySelector(".icon-container");
+    const container = this.shadowRoot.querySelector(".copy-icon-container");
     const copyIcon = this.shadowRoot.querySelector(".copy-icon");
     const checkIcon = this.shadowRoot.querySelector(".check-icon");
 
