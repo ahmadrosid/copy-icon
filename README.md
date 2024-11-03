@@ -2,7 +2,7 @@
 
 A lightweight, customizable copy-to-clipboard icon button implemented as a Web Component. Perfect for adding copy functionality to your web applications with minimal setup.
 
-![Copy Icon Demo](demo.gif) <!-- You might want to add a demo gif -->
+![Copy Icon Demo](example.gif)
 
 ## Features
 
